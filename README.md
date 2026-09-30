@@ -10,6 +10,11 @@
 
 </div>
 
+<div align="center">
+
+<img src="./assets/banner.png" alt="Meu Banner"
+
+</div>
 
 ## 🧑‍💻 Sobre mim
 
