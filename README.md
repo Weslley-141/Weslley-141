@@ -1,4 +1,4 @@
-# 👋 Olá, me Weslley!
+# 👋 Olá, me chamo Weslley!
 
 💻 **Desenvolvedor de Sistemas com foco em Front-end**
 🚀 Construindo projetos para transformar conhecimento em prática.
