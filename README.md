@@ -74,6 +74,22 @@ Uma página estática desenvolvida com **HTML e CSS**, baseada na obra *Made in 
 
 ---
 
+### 🎯 Habit Tracker
+
+Aplicativo mobile gamificado desenvolvido com **React Native e Expo**, criado para acompanhar hábitos diários através de XP, níveis e *streaks*.
+
+🔗 [Ver projeto no GitHub](https://github.com/Weslley-141/Diario-de-habitos)
+
+---
+
+### 🔧 Sistema de Oficina em Java
+
+Projeto acadêmico desenvolvido durante minha formação em **Desenvolvimento de Sistemas**, utilizando **Java e Programação Orientada a Objetos** para simular o gerenciamento de uma oficina mecânica.
+
+🔗 [Ver projeto no GitHub](https://github.com/Weslley-141/Oficina)
+
+---
+
 🧩 Próximos projetos
 
 Esta seção será atualizada conforme novos projetos forem sendo reconstruídos, desenvolvidos e publicados no GitHub.
