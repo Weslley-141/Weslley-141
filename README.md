@@ -49,11 +49,11 @@ Além da programação, também gosto de **jogos, anime, tecnologia e treino** �
 
 ## 📚 Atualmente estudando
 
-* ⚛️ React e desenvolvimento de interfaces
-* 🔷 TypeScript
-* 🌐 Desenvolvimento web
-* 🟢 Node.js e APIs
-* 🛠️ Arquitetura e organização de projetos
+* ⚛️ **React** — aprofundando desenvolvimento de interfaces e componentes
+* 🔷 **TypeScript** — melhorando tipagem e organização dos projetos
+* 🌐 **Desenvolvimento Web** — aprimorando práticas e arquitetura de aplicações
+* 🟢 **Node.js** — desenvolvendo conhecimentos em Back-end e APIs
+* 🧩 **Arquitetura de projetos** — buscando escrever código mais organizado e escalável
 
 ---
 
