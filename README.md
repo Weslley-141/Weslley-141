@@ -1,9 +1,12 @@
-# 👋 Olá, me chamo Weslley!
+<div align="center">
+👋 Olá, eu sou Weslley!
+💻 Desenvolvedor de Sistemas • 🎨 Foco em Front-end • 🏋️ Treino
 
-💻 **Desenvolvedor de Sistemas com foco em Front-end**
-🚀 Construindo projetos para transformar conhecimento em prática.
+<br>
 
----
+Code • Build • Train
+
+</div>
 
 ## 🧑‍💻 Sobre mim
 
