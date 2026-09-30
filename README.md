@@ -69,13 +69,19 @@ Uma página estática desenvolvida com **HTML e CSS**, baseada na obra *Made in 
 
 ---
 
+🧩 Próximos projetos
+
+Esta seção será atualizada conforme novos projetos forem sendo reconstruídos, desenvolvidos e publicados no GitHub.
+
 ---
 
 ---
 
 ## 🎯 Objetivos
 
-Atualmente estou buscando evoluir cada vez mais como desenvolvedor e construir uma base sólida para minha carreira profissional, com foco principalmente em **Front-end e desenvolvimento web**.
+Atualmente estou buscando evoluir cada vez mais como desenvolvedor e construir uma base sólida para minha carreira profissional, com foco principalmente em Front-end e desenvolvimento web.
+
+Também estou em busca da minha primeira oportunidade profissional na área de desenvolvimento, onde possa aplicar meus conhecimentos, continuar aprendendo e evoluir através de projetos e experiências reais.
 
 Quero continuar criando projetos, estudando novas tecnologias e transformando cada projeto em uma oportunidade de aprender algo novo.
 
@@ -83,10 +89,27 @@ Quero continuar criando projetos, estudando novas tecnologias e transformando ca
 
 ## 🎮 Além do código
 
-Quando não estou programando, provavelmente estou jogando algum RPG, explorando alguma tecnologia nova ou simplesmente treinando.
+> 🎮 Games & RPGs  
+> 🌌 Anime & histórias  
+> 🏋️ Treino & disciplina  
+> 💻 Tecnologia & curiosidade
 
-🌌 Jogos, anime, tecnologia e treinar fazem parte da mistura.
+**Sempre aprendendo. Sempre construindo.**
 
 ---
 
+## 📫 Contato
+
+Se quiser trocar uma ideia sobre desenvolvimento, projetos ou oportunidades:
+
+- 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BCh%2BgIOBMRlCgpOCdAybPjA%3D%3D)
+- 🌐 [Portfólio](SEU_PORTFOLIO)
+- 📧 [E-mail](mailto:weslleyeugenio03@gmail.com)
+
+---
+
+<div align="center">
+
 > **Code. Learn. Build. Repeat.**
+
+</div>
