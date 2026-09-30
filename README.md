@@ -6,7 +6,7 @@
 
 <br>
 
-> **Code • Build • Train**
+> **Code. Learn. Build. Repeat**
 
 </div>
 
