@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" alt="Meu Banner"
+<img src="./assets/banner.png" alt="Meu Banner">
 
 </div>
 
