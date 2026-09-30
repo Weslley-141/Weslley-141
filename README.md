@@ -1,12 +1,15 @@
 <div align="center">
-👋 Olá, eu sou Weslley!
-💻 Desenvolvedor de Sistemas • 🎨 Foco em Front-end • 🏋️ Treino
+
+# 👋 Olá, eu sou Weslley!
+
+### 💻 Desenvolvedor de Sistemas • 🎨 Foco em Front-end • 🏋️ Treino
 
 <br>
 
-Code • Build • Train
+> **Code • Build • Train**
 
 </div>
+
 
 ## 🧑‍💻 Sobre mim
 
