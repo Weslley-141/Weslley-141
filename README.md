@@ -13,11 +13,14 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor de sistemas com maior interesse em **desenvolvimento Front-end** e desenvolvimento web.
+Sou **Desenvolvedor de Sistemas**, com foco em **desenvolvimento Front-end** e desenvolvimento web.
 
-Durante minha formação, tive contato com diferentes áreas do desenvolvimento de sistemas, incluindo **Back-end, APIs e bancos de dados relacionais**, mas foi no Front-end que encontrei minha maior afinidade e onde venho concentrando meus estudos e projetos.
+Durante minha formação, tive contato com diferentes áreas do desenvolvimento de sistemas, incluindo **Back-end, APIs e bancos de dados relacionais e não relacionais**. Apesar disso, foi no Front-end que encontrei minha maior afinidade e onde venho concentrando meus estudos e projetos.
 
-Gosto de aprender construindo, experimentar novas ideias e transformar aquilo que estou estudando em projetos reais.
+Gosto de aprender **colocando a mão no código**, transformando o que estudo em projetos reais e experimentando novas ideias ao longo do caminho.
+
+Além da programação, também gosto de **jogos, anime, tecnologia e treino** — coisas que acabam aparecendo de alguma forma nos projetos e na estética que gosto de criar.
+
 
 ---
 
