@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Weslley!
+# 👋 Olá, me chamo Weslley!
 
 ### 💻 Desenvolvedor de Sistemas • 🎨 Foco em Front-end • 🏋️ Treino
 
