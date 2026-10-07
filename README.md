@@ -64,8 +64,6 @@ Além da programação, também gosto de **jogos, anime, tecnologia e treino** �
 
 ## 🚀 Projetos
 
----
-
 ### 🧠 FocusFlow
 
 Aplicação web completa voltada para organização e acompanhamento de estudos, desenvolvida com **React, TypeScript, Node.js e MySQL/TiDB**.
@@ -93,7 +91,7 @@ Um dos meus primeiros projetos de desenvolvimento web, criado durante o início 
 Uma página estática desenvolvida com **HTML e CSS**, baseada na obra *Made in Abyss*.
 
 > Todo projeto tem um começo. Este foi um dos meus.
-> 
+
 ---
 
 ### 🔧 Sistema de Oficina em Java
