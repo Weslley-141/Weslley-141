@@ -64,13 +64,17 @@ Além da programação, também gosto de **jogos, anime, tecnologia e treino** �
 
 ## 🚀 Projetos
 
-### 🌊 Página Made in Abyss
+---
 
-Um dos meus primeiros projetos de desenvolvimento web, criado durante o início dos meus estudos.
+### 🧠 FocusFlow
 
-Uma página estática desenvolvida com **HTML e CSS**, baseada na obra *Made in Abyss*.
+Aplicação web completa voltada para organização e acompanhamento de estudos, desenvolvida com **React, TypeScript, Node.js e MySQL/TiDB**.
 
-> Todo projeto tem um começo. Este foi um dos meus.
+O projeto reúne recursos como **Pomodoro, flashcards com repetição espaçada (SM-2), metas de estudo, mapas mentais, autenticação e estatísticas**, integrando frontend e backend em uma aplicação funcional.
+
+🚀 [Versão online](https://focus-flow-frontend-dusky.vercel.app/) · 
+🎨 [Frontend](https://github.com/Weslley-141/FocusFlow-Frontend) · 
+⚙️ [Backend](https://github.com/Weslley-141/FocusFlow-Backend)
 
 ---
 
@@ -80,6 +84,16 @@ Aplicativo mobile gamificado desenvolvido com **React Native e Expo**, criado pa
 
 🔗 [Ver projeto no GitHub](https://github.com/Weslley-141/Diario-de-habitos)
 
+---
+
+### 🌊 Página Made in Abyss
+
+Um dos meus primeiros projetos de desenvolvimento web, criado durante o início dos meus estudos.
+
+Uma página estática desenvolvida com **HTML e CSS**, baseada na obra *Made in Abyss*.
+
+> Todo projeto tem um começo. Este foi um dos meus.
+> 
 ---
 
 ### 🔧 Sistema de Oficina em Java
@@ -96,7 +110,6 @@ Esta seção será atualizada conforme novos projetos forem sendo reconstruídos
 
 ---
 
----
 
 ## 🎯 Objetivos
 
