@@ -84,6 +84,18 @@ Aplicativo mobile gamificado desenvolvido com **React Native e Expo**, criado pa
 
 ---
 
+### 🖼️ PhotoViewer Lite
+
+Aplicativo desktop de visualização de imagens desenvolvido com **Electron, JavaScript, HTML e CSS**, com uma janela compacta de pré-visualização que permanece sempre por cima de outras janelas.
+
+O projeto conta com atalhos globais para gerenciamento de janelas e sincronização da imagem exibida na interface principal com o mini PhotoViewer.
+
+> Projeto recuperado e atualizado a partir de uma versão desenvolvida anteriormente, preservando parte de sua implementação original.
+
+🔗 [Ver projeto no GitHub](https://github.com/Weslley-141/PhotoViewer-Lite)
+
+---
+
 ### 🌊 Página Made in Abyss
 
 Um dos meus primeiros projetos de desenvolvimento web, criado durante o início dos meus estudos.
