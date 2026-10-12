@@ -70,9 +70,21 @@ Aplicação web completa voltada para organização e acompanhamento de estudos,
 
 O projeto reúne recursos como **Pomodoro, flashcards com repetição espaçada (SM-2), metas de estudo, mapas mentais, autenticação e estatísticas**, integrando frontend e backend em uma aplicação funcional.
 
-🚀 [Versão online](https://focus-flow-frontend-dusky.vercel.app/) · 
-🎨 [Frontend](https://github.com/Weslley-141/FocusFlow-Frontend) · 
+🚀 [Versão online](https://focus-flow-frontend-dusky.vercel.app/) ·  
+🎨 [Frontend](https://github.com/Weslley-141/FocusFlow-Frontend) ·  
 ⚙️ [Backend](https://github.com/Weslley-141/FocusFlow-Backend)
+
+---
+
+### 🔐 CyberCafe Pass
+
+Gerenciador de senhas desktop desenvolvido com **Electron, React e TypeScript**, criado para armazenar e organizar credenciais localmente com uma abordagem **Zero-Knowledge**.
+
+O projeto combina uma arquitetura baseada em **Main Process, Preload e Renderer**, comunicação IPC, gerenciamento de estado com Zustand e uma interface própria inspirada em uma estética **Cozy Cyberpunk**.
+
+Além da aplicação em si, o projeto explora conceitos de **segurança em aplicações Electron, isolamento de processos, armazenamento local e desenvolvimento desktop multiplataforma**.
+
+🔗 [Ver projeto no GitHub](https://github.com/Weslley-141/CyberCafe-Pass)
 
 ---
 
