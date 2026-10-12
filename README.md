@@ -114,6 +114,8 @@ Uma página estática desenvolvida com **HTML e CSS**, baseada na obra *Made in 
 
 > Todo projeto tem um começo. Este foi um dos meus.
 
+🔗 [Ver projeto no GitHub](https://github.com/Weslley-141/Pagina-Made-in-Abyss)
+
 ---
 
 ### 🔧 Sistema de Oficina em Java
