@@ -26,8 +26,8 @@ Gosto de aprender **colocando a mão no código**, transformando o que estudo em
 
 Além da programação, também gosto de **jogos, anime, tecnologia e treino** — coisas que acabam aparecendo de alguma forma nos projetos e na estética que gosto de criar.
 
-
 ---
+
 ## ⚡ Tecnologias
 
 ### 🎨 Front-end
@@ -70,9 +70,20 @@ Aplicação web completa voltada para organização e acompanhamento de estudos,
 
 O projeto reúne recursos como **Pomodoro, flashcards com repetição espaçada (SM-2), metas de estudo, mapas mentais, autenticação e estatísticas**, integrando frontend e backend em uma aplicação funcional.
 
-🚀 [Versão online](https://focus-flow-frontend-dusky.vercel.app/)   
-🎨 [Frontend](https://github.com/Weslley-141/FocusFlow-Frontend)   
+🚀 [Versão online](https://focus-flow-frontend-dusky.vercel.app/)  
+🎨 [Frontend](https://github.com/Weslley-141/FocusFlow-Frontend)  
 ⚙️ [Backend](https://github.com/Weslley-141/FocusFlow-Backend)
+
+---
+
+### 🌴 Portfólio Vaporwave
+
+Portfólio pessoal desenvolvido com **Next.js, TypeScript e Tailwind CSS**, construído do zero com uma identidade visual inspirada no **Vaporwave**.
+
+A página utiliza navegação horizontal baseada em scroll, animações, elementos 3D em CSS, efeitos visuais inspirados em VHS e uma interface responsiva para apresentar meus projetos, tecnologias e formas de contato.
+
+🚀 [Acessar o portfólio](https://weslley-portfolio.vercel.app/)  
+🔗 [Ver projeto no GitHub](https://github.com/Weslley-141/Portfolio)
 
 ---
 
@@ -132,7 +143,6 @@ Esta seção será atualizada conforme novos projetos forem sendo reconstruídos
 
 ---
 
-
 ## 🎯 Objetivos
 
 Atualmente estou buscando evoluir cada vez mais como desenvolvedor e construir uma base sólida para minha carreira profissional, com foco principalmente em Front-end e desenvolvimento web.
@@ -159,7 +169,7 @@ Quero continuar criando projetos, estudando novas tecnologias e transformando ca
 Se quiser trocar uma ideia sobre desenvolvimento, projetos ou oportunidades:
 
 - 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BCh%2BgIOBMRlCgpOCdAybPjA%3D%3D)
-- 🌐 [Portfólio](SEU_PORTFOLIO)
+- 🌐 [Portfólio](https://weslley-portfolio.vercel.app/)
 - 📧 [E-mail](mailto:weslleyeugenio03@gmail.com)
 
 ---
